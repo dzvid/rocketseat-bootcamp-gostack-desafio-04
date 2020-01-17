@@ -6,8 +6,6 @@
   Desafio 4: Introdução ao React
 </h3>
 
-<blockquote align="center">“Sucesso não é o resultado de um jogo, mas o destino de uma jornada”!</blockquote>
-
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-04?color=%2304D361">
 
@@ -28,7 +26,7 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-## :rocket: Sobre o desafio
+## Sobre o desafio
 
 Crie uma aplicação do zero utilizando **Webpack, Babel, Webpack Dev Server e ReactJS**.
 
@@ -38,7 +36,7 @@ As informações contidas na interface são **estáticas** e não precisam refle
 
 ### Tela da aplicação
 
-![Facebook](/assets-desafio/components.png)
+![Facebook](/assets-desafio/facebook.png)
 
 O layout não precisa ficar exatamente igual, você pode utilizar sua criatividade para modificar da maneira que preferir.
 
@@ -50,7 +48,7 @@ O layout da aplicação está [nesse link](assets-desafio/layout.sketch) que pod
 
 Na imagem abaixo destaquei cada componente que você criará e abaixo da imagem está a descrição e responsabilidades de cada um:
 
-![Componentes](src/assets/components.png)
+![Componentes](/assets-desafio/components.png)
 
 **Header (Amarelo):** Responsável por exibir a logo e o link para acessar o perfil;
 
@@ -102,9 +100,9 @@ data.comments.map(comment => <Comment key={comment.id} data={comment} />);
 
 ## 📅 Entrega
 
-Esse desafio **não precisa ser entregue** e não receberá correção, mas você pode ver o resultado do [código do desafio aqui](https://github.com/Rocketseat/bootcamp-gostack-desafio-04). Após concluir o desafio, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
+Resultado: [DEMO](https://tukno.github.io/rocketseat-bootcamp-gostack-desafio-04/public/index.html)
 
-## :memo: Licença
+## Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
